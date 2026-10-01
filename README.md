@@ -18,6 +18,12 @@ Ce projet permet de développer :
 
 Le but principal n’est pas seulement de trier, mais de trier avec le moins d’opérations possible.
 
+## Exigence de performance
+
+Pour répondre aux attentes du projet, l’algorithme doit viser un seuil strict sur les gros jeux de données :
+
+- Trier 500 nombres en moins de **5500 mouvements**
+
 ---
 
 # INSTRUCTION
